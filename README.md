@@ -9,9 +9,9 @@
 | Dataset ID | `768797` |
 | Location | Lakewood |
 | Category | Restaurants |
-| Full dataset size | 465 records |
-| Free sample size | 46 records (9.89%) |
-| Last export | 2026-04-07T10:14:36.220549+00:00 |
+| Full dataset size | 462 records |
+| Free sample size | 46 records (9.96%) |
+| Last export | 2026-04-14T10:08:21.075066+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lakewood-colorado-us-sample-768797/releases/download/sample-latest/beamstation_768797_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
