@@ -1,6 +1,6 @@
 # All Restaurants in Lakewood, Colorado, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `768797` |
 | Location | Lakewood |
 | Category | Restaurants |
-| Full dataset size | 462 records |
-| Free sample size | 46 records (9.96%) |
-| Last export | 2026-04-14T10:08:21.075066+00:00 |
+| Full dataset size | 403 records |
+| Free sample size | 40 records (9.93%) |
+| Last export | 2026-04-28T10:24:36.247614+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lakewood-colorado-us-sample-768797/releases/download/sample-latest/beamstation_768797_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
