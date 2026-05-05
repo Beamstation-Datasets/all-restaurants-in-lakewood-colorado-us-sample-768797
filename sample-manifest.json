@@ -1,12 +1,12 @@
 {
-  "export_job_id": "53ec96e9-23b7-408f-a017-7c973299ede5",
+  "export_job_id": "fce3f966-5631-4987-8ed0-07b293e3cfcd",
   "id_short": 768797,
-  "published_at": "2026-04-28T19:04:49Z",
+  "published_at": "2026-05-05T19:04:30Z",
   "repo_name": "all-restaurants-in-lakewood-colorado-us-sample-768797",
   "sample_asset_name": "beamstation_768797_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/768797/beamstation_768797_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "e1097bd2ebf387a91b192bd255ef55285ee546dfd828e1fca87cbbd08c6b926b",
-  "sample_size_bytes": 152846,
-  "total_records": 403
+  "sample_records": 47,
+  "sample_sha256": "7c8724b45488f39401ac346c92510c6a7474bbaee91a083eb2b84d6cf6f2dcc4",
+  "sample_size_bytes": 197579,
+  "total_records": 475
 }
